@@ -1,0 +1,37 @@
+455  [main] INFO  max.BookingService - Тест код запущен
+456  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+1329 [main] DEBUG max.BookingService - Проверка результатов
+403  [main] INFO  max.BookingService - Тест код запущен
+404  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+1317 [main] DEBUG max.BookingService - Проверка результатов
+407  [main] INFO  max.BookingService - Тест код запущен
+408  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+1285 [main] DEBUG max.BookingService - Проверка результатов
+1295 [main] DEBUG max.BookingService - Тест окончен
+450  [main] INFO  max.BookingService - Тест код запущен
+452  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+378  [main] INFO  max.BookingService - Тест код запущен
+379  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+404  [main] INFO  max.BookingService - Тест код запущен
+405  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+397  [main] INFO  max.BookingService - запуск negativeBookingTest
+385  [main] INFO  max.BookingService - Тест код запущен
+387  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+400  [main] INFO  max.BookingService - Тест код запущен
+402  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+1216 [main] DEBUG max.BookingService - Проверка результатов
+404  [main] INFO  max.BookingService - Тест код запущен
+405  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+1273 [main] DEBUG max.BookingService - Проверка результатов
+392  [main] INFO  max.BookingService - Тест код запущен
+394  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+450  [main] INFO  max.BookingService - Тест код запущен
+451  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+1316 [main] DEBUG max.BookingService - Проверка результатов
+1345 [main] INFO  max.BookingService - Тест positiveBookingTest прошёл успешно
+440  [main] INFO  max.BookingService - Тест код запущен
+440  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+404  [main] INFO  max.BookingService - Тест код запущен
+405  [main] DEBUG max.BookingService - Формирование мока для BookingService 
+409  [main] INFO  max.BookingService - Тест код запущен
+410  [main] DEBUG max.BookingService - Формирование мока для BookingService 
